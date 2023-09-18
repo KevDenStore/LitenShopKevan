@@ -3,4 +3,5 @@ public class Dator {
     int value;
     int quantity;
 
+
 }
